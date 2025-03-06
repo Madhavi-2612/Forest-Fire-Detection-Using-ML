@@ -21,7 +21,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/forest-fire-detection-ml.git
+git clone https://github.com/Madhavi-2612/forest fire detection ml.git
 Install dependencies:
 bash
 Copy
